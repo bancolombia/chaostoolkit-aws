@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/chaostoolkit-incubator/chaostoolkit-aws.svg?branch=master)](https://travis-ci.org/chaostoolkit-incubator/chaostoolkit-aws)
 [![Python versions](https://img.shields.io/pypi/pyversions/chaostoolkit-aws.svg)](https://www.python.org/)
+[![Scorecards supply-chain security](https://github.com/bancolombia/chaostoolkit-aws/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/chaostoolkit-aws/actions/workflows/scorecards-analysis.yml)
 
 This project is a collection of [actions][] and [probes][], gathered as an
 extension to the [Chaos Toolkit][chaostoolkit].
